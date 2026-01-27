@@ -50,7 +50,7 @@ Install the required Python packages listed in **requirements.txt** to run the n
 
 Dependencies include (but not limited to):
 
-* numpy
+* Python
 * pandas
 * matplotlib
 * jupyter
