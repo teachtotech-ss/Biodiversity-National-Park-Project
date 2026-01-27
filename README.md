@@ -83,7 +83,7 @@ This project uses the following tools and libraries:
 
 * Python
 * Pandas & NumPy
-* Matplotlib & Seaborn
+* Matplotlib 
 * Jupyter Notebook
 * Git & GitHub
 
