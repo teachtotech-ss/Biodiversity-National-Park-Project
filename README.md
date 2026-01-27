@@ -28,16 +28,16 @@ The project demonstrates **data cleaning, exploratory data analysis, aggregation
 ---
 
 ## **📁 Repository Structure**
-
-Biodversity-National-Park/
-|-- README.md                                   # Overview and documentation for this project
-|-- requirements.txt                            # Python dependencies and versions
-|-- data/
-|   ├── observations.csv                 # Species observations dataset
-|   └── species_info.csv                 # Species info dataset with categories and conservation status
+```
+Biodiversity-National-Park/
+├── README.md                       # Overview and documentation for this project
+├── requirements.txt                # Python dependencies and versions
+├── data/
+│   ├── observations.csv            # Species observations dataset
+│   └── species_info.csv            # Species info dataset with categories and conservation status
 └── notebooks/
-    └── biodiversity.ipynb               # Jupyter Notebook containing full analysis
-
+└── biodiversity.ipynb              # Jupyter Notebook containing full analysis
+```    
 ---
 
 
@@ -46,14 +46,13 @@ Biodversity-National-Park/
 
 Install the required Python packages listed in **requirements.txt** to run the notebook:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Dependencies include (but not limited to):
 
 * numpy
 * pandas
 * matplotlib
-* seaborn
 * jupyter
 
 ---
