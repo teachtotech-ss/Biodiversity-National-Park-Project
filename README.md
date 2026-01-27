@@ -50,7 +50,6 @@ Install the required Python packages listed in **requirements.txt** to run the n
 
 Dependencies include (but not limited to):
 
-* Python
 * pandas
 * matplotlib
 * jupyter
@@ -82,7 +81,7 @@ Dependencies include (but not limited to):
 This project uses the following tools and libraries:
 
 * Python
-* Pandas & NumPy
+* Pandas 
 * Matplotlib 
 * Jupyter Notebook
 * Git & GitHub
