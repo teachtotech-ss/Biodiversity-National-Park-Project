@@ -30,8 +30,7 @@ The project demonstrates **data cleaning, exploratory data analysis, aggregation
 ## **📁 Repository Structure**
 ```
 Biodiversity-National-Park/
-├── README.md                       # Overview and documentation for this project
-├── requirements.txt                # Python dependencies and versions
+├── README.md                       # Overview and documentation for this project             
 ├── data/
 │   ├── observations.csv            # Species observations dataset
 │   └── species_info.csv            # Species info dataset with categories and conservation status
@@ -46,7 +45,8 @@ Biodiversity-National-Park/
 
 Install the required Python packages listed in **requirements.txt** to run the notebook:
 
-```pip install -r requirements.txt```
+```bash
+pip install pandas matplotlib jupyter```
 
 Dependencies include (but not limited to):
 
