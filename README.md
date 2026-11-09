@@ -63,7 +63,7 @@ Dependencies include (but not limited to):
 * **Observations dataset:** **observations.csv** – records of species observed in national parks.
 * **Species dataset:** **species_info.csv** – contains species categories and conservation status.
 
-*Note:* Scientific names and park names were preserved in their original case to maintain scientific conventions and readability. Only category and conservation status were standardized to lowercase.
+*Note:* Scientific names and park names were preserved in their original case to maintain scientific conventions and readability. Only category and conservation status were standardised to lowercase.
 
 ---
 
