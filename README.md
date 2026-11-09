@@ -27,16 +27,15 @@ The project demonstrates **data cleaning, exploratory data analysis, aggregation
 
 ---
 
-## **📁 Repository Structure**
+## **📁 Repository Structure**  
+
 ```
-Biodiversity-National-Park/
-├── README.md                       # Overview and documentation for this project             
-├── data/
-│   ├── observations.csv            # Species observations dataset
-│   └── species_info.csv            # Species info dataset with categories and conservation status
-└── notebooks/
-└── biodiversity.ipynb              # Jupyter Notebook containing full analysis
-```    
+Biodiversity-National-Park-/
+├── README.md              # Overview and documentation
+├── observations.csv       # Species observations dataset
+├── species_info.csv       # Species categories and conservation status
+└── biodiversity.ipynb     # Jupyter Notebook with full analysis
+```
 ---
 
 
