@@ -42,10 +42,11 @@ Biodiversity-National-Park-/
 
 ## **📦 Requirements**
 
-Install the required Python packages listed in **requirements.txt** to run the notebook:
+To run the notebook, install the following Python packages:
 
-```bash
-pip install pandas matplotlib jupyter```
+```
+pip install pandas matplotlib jupyter
+```
 
 Dependencies include (but not limited to):
 
